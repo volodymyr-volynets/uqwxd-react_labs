@@ -1,6 +1,5 @@
 import React from 'react';
 import MainPanel from './components/MainPanel';
-
 function App() {
   return (
       <div>
@@ -8,5 +7,4 @@ function App() {
       </div>
     );
 }
-
 export default App;
